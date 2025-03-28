@@ -1,0 +1,17 @@
+{
+  "name": "lesson---npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "print": "node index.js",
+    "start": "http-server -p 3004"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "JS-lesson_libraries": "github:kikabidze-arsen/JS-lesson_libraries",
+    "lodash": "^4.17.21"
+  }
+}
